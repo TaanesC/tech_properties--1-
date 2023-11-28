@@ -1,0 +1,304 @@
+.batteryThreeQuartersIcon,
+.wifiIcon {
+  position: absolute;
+  top: 25px;
+  left: 326px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.wifiIcon {
+  top: 26px;
+  left: 306px;
+  width: 15px;
+  height: 18px;
+}
+.signalIcon {
+  top: 27px;
+  left: 279px;
+  width: 22px;
+  height: 14px;
+  overflow: hidden;
+}
+.pm,
+.saved,
+.signalIcon {
+  position: absolute;
+}
+.pm {
+  top: 28px;
+  left: 49px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.saved {
+  top: 8.22%;
+  left: 12.47%;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+}
+.child,
+.item {
+  position: absolute;
+  top: 134px;
+  left: 44px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro-100);
+  width: 307px;
+  height: 52px;
+}
+.item {
+  top: 137px;
+  left: 197px;
+  background-color: var(--color-white);
+  width: 150px;
+  height: 46px;
+}
+.properties,
+.searches {
+  position: absolute;
+  top: 17.72%;
+  font-family: var(--font-inter);
+}
+.properties {
+  left: 22.14%;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+  cursor: pointer;
+}
+.searches {
+  left: 62.85%;
+}
+.inner {
+  position: absolute;
+  top: 209.5px;
+  left: 8.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 236px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 276px;
+}
+.newListings,
+.roomForRent {
+  position: absolute;
+  left: 24px;
+  font-weight: 600;
+  text-align: center;
+}
+.newListings {
+  top: 283px;
+  font-size: var(--font-size-mini);
+  color: var(--color-mediumslateblue);
+}
+.roomForRent {
+  top: 252px;
+  font-size: var(--font-size-xl);
+}
+.location {
+  margin: 0;
+}
+.locationAreaContainer {
+  position: absolute;
+  top: 315px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+}
+.lineDiv {
+  position: absolute;
+  top: 449.5px;
+  left: 9.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+}
+.receiveNotifications {
+  position: absolute;
+  top: 467px;
+  left: 23px;
+  font-size: var(--font-size-xl);
+  text-align: center;
+}
+.child1 {
+  position: absolute;
+  top: 521px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 276px;
+}
+.newListings1,
+.roomForRent1 {
+  position: absolute;
+  left: 24px;
+  font-weight: 600;
+  text-align: center;
+}
+.newListings1 {
+  top: 568px;
+  font-size: var(--font-size-mini);
+  color: var(--color-mediumslateblue);
+}
+.roomForRent1 {
+  top: 537px;
+  font-size: var(--font-size-xl);
+}
+.locationAreaContainer1 {
+  position: absolute;
+  top: 600px;
+  left: 23px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+}
+.child2 {
+  position: absolute;
+  top: 734.5px;
+  left: 9.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+}
+.receiveNotifications1 {
+  position: absolute;
+  top: 752px;
+  left: 23px;
+  font-size: var(--font-size-xl);
+  text-align: center;
+}
+.iconToggleOn,
+.iconToggleOn1 {
+  position: absolute;
+  height: 2.82%;
+  width: 9.16%;
+  top: 88.5%;
+  right: 8.4%;
+  bottom: 8.69%;
+  left: 82.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconToggleOn1 {
+  top: 55.05%;
+  bottom: 42.14%;
+}
+.child3 {
+  position: absolute;
+  top: 768px;
+  left: -14px;
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 422px;
+  height: 87px;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 3.52%;
+  width: 8.91%;
+  top: 93.08%;
+  bottom: 3.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon {
+  right: 81.42%;
+  left: 9.67%;
+  cursor: pointer;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  right: 59.29%;
+  left: 31.81%;
+}
+.vectorIcon2 {
+  right: 11.45%;
+  left: 79.64%;
+  cursor: pointer;
+}
+.account,
+.home,
+.inbox,
+.saved1 {
+  position: absolute;
+  top: 96.83%;
+  left: 9.16%;
+  font-family: var(--font-inter);
+  color: var(--color-dimgray-100);
+}
+.account,
+.inbox,
+.saved1 {
+  left: 31.81%;
+}
+.account,
+.inbox {
+  top: 96.71%;
+  left: 57.51%;
+}
+.account {
+  top: 96.83%;
+  left: 76.59%;
+}
+.iconMessageSquareOutlineI,
+.iconTimes,
+.iconTimes1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconMessageSquareOutlineI {
+  height: 3.52%;
+  width: 7.63%;
+  top: 93.08%;
+  right: 34.86%;
+  bottom: 3.4%;
+  left: 57.51%;
+  cursor: pointer;
+}
+.iconTimes,
+.iconTimes1 {
+  height: 1.76%;
+  width: 3.82%;
+  top: 63.62%;
+  right: 6.36%;
+  bottom: 34.62%;
+  left: 89.82%;
+}
+.iconTimes1 {
+  top: 29.93%;
+  right: 5.85%;
+  bottom: 68.31%;
+  left: 90.33%;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-vazirmatn);
+}

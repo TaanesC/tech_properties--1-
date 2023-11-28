@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Train+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Vazirmatn:wght@300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rouge+Script:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-train-one: "Train One";
+  --font-poppins: Poppins;
+  --font-vazirmatn: Vazirmatn;
+  --font-inter: Inter;
+  --font-rouge-script: "Rouge Script";
+
+  /* font sizes */
+  --font-size-109xl: 128px;
+  --font-size-xs: 12px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-sm: 14px;
+  --font-size-xl: 20px;
+  --font-size-smi: 13px;
+  --font-size-mini: 15px;
+  --font-size-lg: 18px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-burlywood: #d7ba75;
+  --color-white: #fff;
+  --color-gray-100: #fcfbfb;
+  --color-gray-200: rgba(0, 0, 0, 0);
+  --color-dimgray-100: #5e5c5c;
+  --color-dimgray-200: #5d5c5c;
+  --color-black: #000;
+  --color-dodgerblue: #0576de;
+  --color-gainsboro-100: #e1e1e1;
+  --color-gainsboro-200: #dbdbdb;
+  --color-gainsboro-300: #d9d9d9;
+  --color-darkgray: #9e9e9e;
+  --color-silver-100: #bdbdbd;
+  --color-silver-200: #bcbaba;
+  --color-mediumslateblue: #0155f8;
+  --color-darkslategray-100: #393939;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-8xs: 5px;
+  --br-81xl: 100px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-11xl: 30px;
+}

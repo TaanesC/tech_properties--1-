@@ -1,0 +1,359 @@
+.batteryThreeQuartersIcon,
+.signalIcon,
+.wifiIcon {
+  position: absolute;
+  top: 25px;
+  left: 325px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.signalIcon,
+.wifiIcon {
+  top: 26px;
+  left: 305px;
+  width: 15px;
+  height: 18px;
+}
+.signalIcon {
+  top: 27px;
+  left: 278px;
+  width: 22px;
+  height: 14px;
+}
+.pm {
+  top: 28px;
+  left: 48px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.child,
+.pm,
+.today {
+  position: absolute;
+}
+.child {
+  top: 112px;
+  left: 0;
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 393px;
+  height: 664px;
+}
+.today {
+  top: 307px;
+  left: 175px;
+  font-weight: 600;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.5%;
+  width: 5.57%;
+  top: 8.33%;
+  right: 90.36%;
+  bottom: 89.17%;
+  left: 4.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.theOasisCondo {
+  position: absolute;
+  top: 7.75%;
+  left: 33.33%;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  color: var(--color-black);
+  text-align: left;
+}
+.image1Icon {
+  position: absolute;
+  top: 41px;
+  left: 42px;
+  border-radius: var(--br-81xl);
+  width: 85px;
+  height: 84.4px;
+  object-fit: cover;
+}
+.iconHorizontalEllipsis {
+  position: absolute;
+  height: 1.02%;
+  width: 7.63%;
+  top: 8.69%;
+  right: 13.49%;
+  bottom: 90.29%;
+  left: 78.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.item {
+  position: absolute;
+  top: 134px;
+  left: 22px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(4px);
+  width: 350px;
+  height: 60px;
+}
+.openListingDetails {
+  position: absolute;
+  top: 17.72%;
+  left: 30.79%;
+  font-size: var(--font-size-xl);
+  text-align: left;
+}
+.iconShare {
+  position: absolute;
+  height: 3.9%;
+  width: 8.45%;
+  top: 17.25%;
+  right: 69.92%;
+  bottom: 78.85%;
+  left: 21.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.inner {
+  position: absolute;
+  top: 205px;
+  left: 22px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(4px);
+  width: 350px;
+  height: 91px;
+}
+.goldenPinkRealty,
+.realEstateAgency {
+  position: absolute;
+  top: 227px;
+  left: 137px;
+  font-weight: 600;
+  color: var(--color-black);
+}
+.realEstateAgency {
+  top: 243px;
+  left: 144px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+}
+.iconUserCircle,
+.vectorIcon1 {
+  position: absolute;
+  height: 7.04%;
+  width: 15.27%;
+  top: 25.94%;
+  right: 68.96%;
+  bottom: 67.02%;
+  left: 15.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 2.5%;
+  width: 3.28%;
+  top: 28.17%;
+  right: 11.48%;
+  bottom: 69.33%;
+  left: 85.24%;
+}
+.child1,
+.lineDiv {
+  position: absolute;
+  top: 321.5px;
+  left: 32.5px;
+  border-top: 1px solid var(--color-darkgray);
+  box-sizing: border-box;
+  width: 124px;
+  height: 1px;
+}
+.child1 {
+  left: 239.5px;
+  width: 120px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 447px;
+  left: 137px;
+  background-color: var(--color-gainsboro-300);
+  width: 4px;
+  height: 21px;
+}
+.child2,
+.child3 {
+  width: 197px;
+  height: 69px;
+}
+.child2 {
+  position: absolute;
+  top: 344px;
+  left: 175px;
+  border-radius: var(--br-mini) 0 var(--br-mini) var(--br-mini);
+  background-color: var(--color-dodgerblue);
+}
+.child3 {
+  top: 450px;
+  left: 22px;
+  border-radius: 0 var(--br-mini) var(--br-mini) var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver-200);
+  box-sizing: border-box;
+}
+.child3,
+.child4,
+.pm1 {
+  position: absolute;
+}
+.pm1 {
+  top: 413px;
+  left: 292px;
+  font-weight: 600;
+}
+.child4 {
+  top: 530px;
+  left: 22px;
+  border-radius: 0 var(--br-mini) var(--br-mini) var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-silver-200);
+  box-sizing: border-box;
+  width: 197px;
+  height: 51px;
+}
+.suggestedDate {
+  top: 534px;
+  left: 67px;
+  font-size: var(--font-size-smi);
+}
+.at600Pm,
+.pm2,
+.suggestedDate {
+  position: absolute;
+  font-weight: 600;
+}
+.at600Pm {
+  top: 552px;
+  left: 72px;
+  font-size: var(--font-size-smi);
+  color: var(--color-black);
+}
+.pm2 {
+  top: 665px;
+  left: 26px;
+}
+.iconCalander,
+.iconDoubleCheck {
+  position: absolute;
+  height: 1.67%;
+  width: 3.61%;
+  top: 48.83%;
+  right: 6.06%;
+  bottom: 49.51%;
+  left: 90.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconCalander {
+  height: 3.36%;
+  width: 7.63%;
+  top: 63.5%;
+  right: 83.72%;
+  bottom: 33.15%;
+  left: 8.65%;
+}
+.child5,
+.child6 {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.child5 {
+  top: 765px;
+  left: -6px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.34) inset;
+  width: 422px;
+  height: 87px;
+}
+.child6 {
+  top: 592px;
+  left: 22px;
+  border-radius: 0 var(--br-mini) var(--br-mini) var(--br-mini);
+  border: 1px solid var(--color-silver-200);
+  box-sizing: border-box;
+  width: 197px;
+  height: 69px;
+}
+.illustrationMapIcon {
+  position: absolute;
+  height: 8.92%;
+  width: 39.95%;
+  top: 69.13%;
+  right: 49.62%;
+  bottom: 21.95%;
+  left: 10.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.child7,
+.child8 {
+  position: absolute;
+  top: 784px;
+  height: 53px;
+}
+.child7 {
+  left: 18px;
+  border-radius: 50px;
+  background-color: var(--color-gainsboro-300);
+  width: 292px;
+}
+.child8 {
+  left: 325px;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-dodgerblue);
+  width: 53px;
+}
+.writeAMessage {
+  position: absolute;
+  top: 799px;
+  left: 83px;
+  font-weight: 600;
+}
+.iconAttachment,
+.iconSend {
+  position: absolute;
+  height: 3.4%;
+  width: 8.6%;
+  top: 93.32%;
+  right: 5.62%;
+  bottom: 3.27%;
+  left: 85.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconAttachment {
+  height: 4.17%;
+  width: 8.58%;
+  top: 92.98%;
+  right: 82.98%;
+  bottom: 2.85%;
+  left: 8.45%;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkgray);
+  font-family: var(--font-vazirmatn);
+}

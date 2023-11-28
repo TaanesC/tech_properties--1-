@@ -1,0 +1,222 @@
+.batteryThreeQuartersIcon,
+.signalIcon,
+.wifiIcon {
+  position: absolute;
+  top: 25px;
+  left: 325px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.signalIcon,
+.wifiIcon {
+  top: 26px;
+  left: 305px;
+  width: 15px;
+  height: 18px;
+}
+.signalIcon {
+  top: 27px;
+  left: 278px;
+  width: 22px;
+  height: 14px;
+}
+.pm,
+.saved {
+  position: absolute;
+  top: 28px;
+  left: 48px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.saved {
+  top: 8.22%;
+  left: 12.21%;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  font-family: var(--font-vazirmatn);
+  color: var(--color-black);
+}
+.child,
+.item {
+  position: absolute;
+  top: 134px;
+  left: 43px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-gainsboro-100);
+  width: 307px;
+  height: 52px;
+}
+.item {
+  top: 137px;
+  left: 46px;
+  background-color: var(--color-white);
+  width: 150px;
+  height: 46px;
+}
+.properties {
+  position: absolute;
+  top: 17.72%;
+  left: 21.88%;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.image1Icon,
+.searches {
+  position: absolute;
+  top: 17.84%;
+  left: 62.6%;
+  cursor: pointer;
+}
+.image1Icon {
+  top: 215px;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 393px;
+  height: 262px;
+  object-fit: cover;
+}
+.inner {
+  position: absolute;
+  top: 209.5px;
+  left: 7.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+}
+.rm600,
+.theOasisCondo {
+  position: absolute;
+  top: 56.34%;
+  left: 2.04%;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+  font-family: var(--font-vazirmatn);
+  color: var(--color-black);
+  cursor: pointer;
+}
+.theOasisCondo {
+  top: 505px;
+  left: 8px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+  text-align: center;
+}
+.heartIcon {
+  position: absolute;
+  top: 488px;
+  left: 350px;
+  width: 21px;
+  height: 22px;
+}
+.room70Sqft {
+  position: absolute;
+  top: 62.91%;
+  left: 2.04%;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.image2Icon {
+  position: absolute;
+  top: 576px;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 393px;
+  height: 218px;
+  object-fit: cover;
+}
+.lineDiv {
+  position: absolute;
+  top: 571.5px;
+  left: 7.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 765px;
+  left: -15px;
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 422px;
+  height: 87px;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 3.52%;
+  width: 8.91%;
+  top: 92.72%;
+  bottom: 3.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon {
+  right: 81.68%;
+  left: 9.41%;
+  cursor: pointer;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  right: 59.54%;
+  left: 31.55%;
+}
+.vectorIcon2 {
+  right: 11.7%;
+  left: 79.39%;
+  cursor: pointer;
+}
+.account,
+.home,
+.inbox,
+.saved1 {
+  position: absolute;
+  top: 96.48%;
+  left: 8.91%;
+}
+.account,
+.inbox,
+.saved1 {
+  left: 31.55%;
+}
+.account,
+.inbox {
+  top: 96.36%;
+  left: 57.25%;
+}
+.account {
+  top: 96.48%;
+  left: 76.34%;
+}
+.iconMessageSquareOutlineI {
+  position: absolute;
+  height: 3.52%;
+  width: 7.63%;
+  top: 92.72%;
+  right: 35.11%;
+  bottom: 3.76%;
+  left: 57.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-inter);
+}

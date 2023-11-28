@@ -1,0 +1,205 @@
+.batteryThreeQuartersIcon,
+.wifiIcon {
+  position: absolute;
+  top: 25px;
+  left: 325px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.wifiIcon {
+  top: 26px;
+  left: 305px;
+  width: 15px;
+  height: 18px;
+}
+.signalIcon {
+  top: 27px;
+  left: 278px;
+  width: 22px;
+  height: 14px;
+  overflow: hidden;
+}
+.child,
+.pm,
+.signalIcon {
+  position: absolute;
+}
+.pm {
+  top: 28px;
+  left: 48px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.child {
+  top: 765px;
+  left: -14px;
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 422px;
+  height: 87px;
+}
+.vectorIcon {
+  right: 81.42%;
+  left: 9.67%;
+  cursor: pointer;
+}
+.vectorIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 3.52%;
+  width: 8.91%;
+  top: 92.72%;
+  bottom: 3.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  right: 59.29%;
+  left: 31.81%;
+  cursor: pointer;
+}
+.vectorIcon2 {
+  right: 11.45%;
+  left: 79.64%;
+}
+.account,
+.home,
+.inbox,
+.saved {
+  position: absolute;
+  top: 96.48%;
+  left: 9.16%;
+  font-family: var(--font-inter);
+}
+.account,
+.inbox,
+.saved {
+  left: 31.81%;
+}
+.account,
+.inbox {
+  top: 96.36%;
+  left: 57.51%;
+}
+.account {
+  top: 96.48%;
+  left: 76.59%;
+}
+.iconMessageSquareOutlineI {
+  position: absolute;
+  height: 3.52%;
+  width: 7.63%;
+  top: 92.72%;
+  right: 34.86%;
+  bottom: 3.76%;
+  left: 57.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.inbox1 {
+  position: absolute;
+  top: 8.22%;
+  left: 12.21%;
+  font-size: var(--font-size-13xl);
+  font-weight: 800;
+  color: var(--color-black);
+}
+.iconUserCircle {
+  position: absolute;
+  height: 8.69%;
+  width: 19.85%;
+  top: 16.2%;
+  right: 76.34%;
+  bottom: 75.12%;
+  left: 3.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.editProfile,
+.gciu123gmailcom,
+.hiUserName {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+}
+.hiUserName {
+  top: 142px;
+  left: 109px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.editProfile,
+.gciu123gmailcom {
+  top: 179px;
+  left: 130px;
+  font-size: var(--font-size-base);
+}
+.editProfile {
+  top: 204px;
+  left: 163px;
+  color: var(--color-dodgerblue);
+}
+.blankLine {
+  margin: 0;
+}
+.email {
+  position: absolute;
+  top: 270px;
+  left: 15px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  color: var(--color-black);
+  white-space: pre-wrap;
+}
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  height: 1.88%;
+  width: 4.07%;
+  top: 37.56%;
+  right: 92.11%;
+  bottom: 60.56%;
+  left: 3.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon4 {
+  top: 43.43%;
+  bottom: 54.69%;
+}
+.logOut {
+  position: absolute;
+  top: 676px;
+  left: 138px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: #565656;
+  text-align: center;
+}
+.locationArrow {
+  position: absolute;
+  top: 330.4px;
+  left: 83.2px;
+  background-color: var(--color-gray-200);
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-vazirmatn);
+}

@@ -1,0 +1,166 @@
+.batteryThreeQuartersIcon {
+  position: absolute;
+  top: 23px;
+  left: 325px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.wifiIcon {
+  top: 24px;
+  left: 305px;
+  width: 15px;
+  height: 18px;
+  overflow: hidden;
+}
+.pm,
+.signalIcon,
+.wifiIcon {
+  position: absolute;
+}
+.signalIcon {
+  top: 25px;
+  left: 278px;
+  width: 22px;
+  height: 14px;
+  overflow: hidden;
+}
+.pm {
+  top: 26px;
+  left: 48px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  text-align: left;
+}
+.child,
+.item {
+  position: absolute;
+  top: 91px;
+  height: 3px;
+}
+.child {
+  left: 137px;
+  background-color: var(--color-gray-100);
+  width: 113px;
+  opacity: 0.5;
+}
+.item {
+  left: 132px;
+  background-color: var(--color-white);
+  width: 60px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.5%;
+  width: 5.57%;
+  top: 9.62%;
+  right: 89.08%;
+  bottom: 87.88%;
+  left: 5.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.inner {
+  position: absolute;
+  top: 453px;
+  left: 1px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 445px;
+}
+.exploreYourNeighborhood {
+  position: absolute;
+  top: 474px;
+  left: 77px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.allowUsTo {
+  margin: 0;
+}
+.allowUsToContainer {
+  position: absolute;
+  top: 511px;
+  left: 42px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  color: var(--color-dimgray-100);
+  white-space: pre-wrap;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 700px;
+  left: 32px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 81px;
+  cursor: pointer;
+}
+.map {
+  position: absolute;
+  top: 217.8px;
+  left: -302.9px;
+  background-color: var(--color-gray-200);
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.maybeLater {
+  position: absolute;
+  top: 722px;
+  left: 127px;
+  color: var(--color-black);
+}
+.child1 {
+  position: absolute;
+  top: 592px;
+  left: 32px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-dodgerblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 84px;
+  cursor: pointer;
+}
+.enableLocation,
+.vectorIcon1 {
+  position: absolute;
+  top: 615px;
+  left: 109px;
+}
+.vectorIcon1 {
+  height: 26.41%;
+  width: 60.56%;
+  top: 18.19%;
+  right: 20.36%;
+  bottom: 55.4%;
+  left: 19.08%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.searchLocationIcon {
+  position: absolute;
+  top: 222px;
+  left: 157px;
+  width: 81px;
+  height: 104px;
+  overflow: hidden;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-vazirmatn);
+}

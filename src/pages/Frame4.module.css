@@ -1,0 +1,421 @@
+.batteryThreeQuartersIcon,
+.wifiIcon {
+  position: absolute;
+  top: 24px;
+  left: 320px;
+  width: 28px;
+  height: 21px;
+  overflow: hidden;
+}
+.wifiIcon {
+  top: 23.7px;
+  left: 300px;
+  width: 23px;
+  height: 20.6px;
+}
+.signalIcon {
+  top: 23.4px;
+  left: 273.8px;
+  width: 28.4px;
+  height: 19.2px;
+  overflow: hidden;
+}
+.pm,
+.signalIcon,
+.vectorIcon {
+  position: absolute;
+}
+.pm {
+  top: 27px;
+  left: 47px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  filter: blur(4px);
+}
+.vectorIcon {
+  height: 3.44%;
+  width: 7.61%;
+  top: 9.86%;
+  right: 84.25%;
+  bottom: 86.7%;
+  left: 8.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.details {
+  position: absolute;
+  top: 10.09%;
+  left: 41.73%;
+  font-weight: 800;
+  color: var(--color-black);
+  text-align: left;
+  filter: blur(4px);
+}
+.heartIcon,
+.iconUploadShare {
+  position: absolute;
+  top: 82px;
+  left: 330px;
+  width: 29px;
+  height: 30px;
+}
+.iconUploadShare {
+  height: 3.78%;
+  width: 7.89%;
+  top: 9.51%;
+  right: 18.83%;
+  bottom: 86.71%;
+  left: 73.28%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.child {
+  position: absolute;
+  top: 150px;
+  left: -1px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 393px;
+  height: 330px;
+}
+.listedBy {
+  top: 171px;
+  left: 29px;
+  color: var(--color-black);
+}
+.goldenPinkRealty,
+.listedBy,
+.realEstateAgency {
+  position: absolute;
+  font-weight: 600;
+  filter: blur(4px);
+}
+.goldenPinkRealty {
+  top: 222px;
+  left: 105px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.realEstateAgency {
+  top: 238px;
+  left: 112px;
+  font-size: var(--font-size-sm);
+}
+.iconUserCircle,
+.vectorIcon1 {
+  position: absolute;
+  height: 7.98%;
+  width: 17.3%;
+  top: 24.88%;
+  right: 76.08%;
+  bottom: 67.14%;
+  left: 6.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 3.44%;
+  width: 5.32%;
+  top: 26.64%;
+  right: 5.37%;
+  bottom: 69.92%;
+  left: 89.31%;
+}
+.hellogmailcom {
+  color: var(--color-black);
+}
+.blankLine {
+  margin: 0;
+}
+.email {
+  position: absolute;
+  top: 288px;
+  left: 29px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  white-space: pre-wrap;
+  text-align: left;
+  filter: blur(4px);
+  color: var(--color-dimgray-200);
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 2.82%;
+  width: 6.11%;
+  top: 39.2%;
+  right: 87.28%;
+  bottom: 57.98%;
+  left: 6.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chevronRight,
+.phoneAlt {
+  position: absolute;
+  top: 316.2px;
+  left: 120.2px;
+  background-color: var(--color-gray-200);
+  filter: blur(4px);
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.chevronRight {
+  top: 341.8px;
+  left: 208.5px;
+}
+.inner,
+.item {
+  position: absolute;
+  top: 387px;
+  left: 12px;
+  border-radius: var(--br-xl);
+  width: 233px;
+  height: 78px;
+}
+.inner {
+  left: 251px;
+  width: 128px;
+}
+.call,
+.messageInThe {
+  position: absolute;
+  top: 414px;
+  left: 66px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  filter: blur(4px);
+}
+.call {
+  top: 415px;
+  left: 308px;
+}
+.iconMessageSquareOutlineI,
+.vectorIcon3 {
+  position: absolute;
+  height: 4.23%;
+  width: 8.65%;
+  top: 47.89%;
+  right: 83.46%;
+  bottom: 47.89%;
+  left: 7.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 4.46%;
+  width: 9.67%;
+  top: 47.77%;
+  right: 22.9%;
+  bottom: 47.77%;
+  left: 67.43%;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 765px;
+  left: -15px;
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 422px;
+  height: 87px;
+}
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  position: absolute;
+  height: 4.46%;
+  width: 10.94%;
+  top: 92.25%;
+  right: 80.66%;
+  bottom: 3.29%;
+  left: 8.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon5,
+.vectorIcon6 {
+  right: 58.52%;
+  left: 30.53%;
+}
+.vectorIcon6 {
+  right: 10.69%;
+  left: 78.37%;
+}
+.account,
+.home,
+.inbox,
+.saved {
+  position: absolute;
+  top: 96.48%;
+  left: 8.91%;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inter);
+  text-align: left;
+  filter: blur(4px);
+}
+.account,
+.inbox,
+.saved {
+  left: 31.55%;
+}
+.account,
+.inbox {
+  top: 96.36%;
+  left: 57.25%;
+}
+.account {
+  top: 96.48%;
+  left: 76.34%;
+}
+.iconMessageSquareOutlineI1 {
+  position: absolute;
+  height: 3.73%;
+  width: 8.4%;
+  top: 92.7%;
+  right: 34.73%;
+  bottom: 3.57%;
+  left: 56.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.child1,
+.child2 {
+  position: absolute;
+  top: 490px;
+  left: -1px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 393px;
+  height: 96px;
+}
+.child2 {
+  top: 596px;
+}
+.hideThisListing,
+.reportThisListing {
+  position: absolute;
+  top: 525px;
+  left: 129px;
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+  filter: blur(4px);
+}
+.reportThisListing {
+  top: 631px;
+  left: 125px;
+  text-align: left;
+}
+.iconEyeSlash,
+.iconMessageReport {
+  position: absolute;
+  height: 3.29%;
+  width: 8.4%;
+  top: 61.27%;
+  right: 68.96%;
+  bottom: 35.45%;
+  left: 22.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconMessageReport {
+  height: 3.13%;
+  width: 6.72%;
+  top: 74.06%;
+  right: 69.8%;
+  bottom: 22.81%;
+  left: 23.49%;
+}
+.child3 {
+  top: 503px;
+  left: 5px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 380px;
+  height: 228px;
+}
+.cancel,
+.child3,
+.child4 {
+  position: absolute;
+}
+.child4 {
+  top: 741px;
+  left: 5px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-dimgray-100);
+  box-sizing: border-box;
+  width: 380px;
+  height: 80px;
+  cursor: pointer;
+}
+.cancel {
+  top: 90.38%;
+  left: 38.42%;
+  font-family: var(--font-inter);
+  color: var(--color-mediumslateblue);
+}
+.saveContactBeforeCall {
+  margin: 0;
+  font-size: var(--font-size-base);
+  color: #424242;
+}
+.saveContactBeforeContainer {
+  position: absolute;
+  top: 60.8%;
+  left: 4.58%;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+}
+.child5,
+.lineDiv {
+  position: absolute;
+  top: 609.5px;
+  left: 14.5px;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  width: 361px;
+  height: 1px;
+}
+.child5 {
+  top: 671.5px;
+}
+.call1,
+.saveContactAnd {
+  position: absolute;
+  top: 73.94%;
+  left: 42.24%;
+  font-family: var(--font-inter);
+  color: var(--color-mediumslateblue);
+}
+.saveContactAnd {
+  top: 81.57%;
+  left: 22.39%;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-vazirmatn);
+}

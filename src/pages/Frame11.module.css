@@ -1,0 +1,210 @@
+.batteryThreeQuartersIcon {
+  position: absolute;
+  top: 21px;
+  left: 326px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.wifiIcon {
+  top: 22px;
+  left: 306px;
+  width: 15px;
+  height: 18px;
+  overflow: hidden;
+}
+.pm,
+.signalIcon,
+.wifiIcon {
+  position: absolute;
+}
+.signalIcon {
+  top: 23px;
+  left: 279px;
+  width: 22px;
+  height: 14px;
+  overflow: hidden;
+}
+.pm {
+  top: 24px;
+  left: 49px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.child,
+.item {
+  position: absolute;
+  top: 89px;
+  height: 3px;
+}
+.child {
+  left: 138px;
+  background-color: var(--color-gray-100);
+  width: 113px;
+  opacity: 0.5;
+}
+.item {
+  left: 133px;
+  background-color: var(--color-white);
+  width: 80px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.5%;
+  width: 5.57%;
+  top: 9.39%;
+  right: 88.83%;
+  bottom: 88.11%;
+  left: 5.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.inner,
+.rectangleDiv {
+  position: absolute;
+  top: 452px;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 445px;
+}
+.rectangleDiv {
+  top: 655px;
+  left: 32px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 81px;
+  cursor: pointer;
+}
+.whatAreYou {
+  top: 480px;
+  left: 73px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.child1,
+.of4,
+.whatAreYou {
+  position: absolute;
+}
+.of4 {
+  top: 517px;
+  left: 176px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  color: var(--color-dimgray-100);
+}
+.child1 {
+  top: 746px;
+  left: 32px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 81px;
+  cursor: pointer;
+}
+.justLookAround {
+  top: 768px;
+  left: 98px;
+}
+.buy,
+.child2,
+.justLookAround {
+  position: absolute;
+}
+.child2 {
+  top: 564px;
+  left: 32px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 81px;
+  cursor: pointer;
+}
+.buy {
+  top: 677px;
+  left: 173px;
+}
+.child3,
+.child4,
+.rent {
+  position: absolute;
+  top: 590px;
+  left: 168px;
+}
+.child3,
+.child4 {
+  top: 158px;
+  left: 90px;
+  background-color: var(--color-gainsboro-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 200px;
+  height: 200px;
+}
+.child4 {
+  top: 163px;
+  left: -13px;
+  width: 70px;
+  height: 191px;
+  mix-blend-mode: multiply;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 5.52%;
+  width: 15.27%;
+  top: 20.54%;
+  right: 57.25%;
+  bottom: 73.94%;
+  left: 27.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.photoVideo {
+  top: 407.3px;
+  left: -46.3px;
+  background-color: var(--color-gray-200);
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.child5,
+.photoVideo,
+.skip {
+  position: absolute;
+}
+.child5 {
+  top: 165px;
+  left: 323px;
+  background-color: var(--color-gainsboro-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 70px;
+  height: 191px;
+  mix-blend-mode: color-burn;
+}
+.skip {
+  top: 80px;
+  left: 321px;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-vazirmatn);
+}

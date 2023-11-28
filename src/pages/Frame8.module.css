@@ -1,0 +1,263 @@
+.batteryThreeQuartersIcon,
+.wifiIcon {
+  position: absolute;
+  top: 21px;
+  left: 325px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.wifiIcon {
+  top: 22px;
+  left: 305px;
+  width: 15px;
+  height: 18px;
+}
+.signalIcon {
+  top: 23px;
+  left: 278px;
+  width: 22px;
+  height: 14px;
+  overflow: hidden;
+}
+.pm,
+.signalIcon,
+.vectorIcon {
+  position: absolute;
+}
+.pm {
+  top: 24px;
+  left: 48px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.vectorIcon {
+  height: 2.5%;
+  width: 5.57%;
+  top: 9.98%;
+  right: 85.01%;
+  bottom: 87.52%;
+  left: 9.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.details {
+  position: absolute;
+  top: 9.74%;
+  left: 41.98%;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+}
+.heartIcon,
+.iconUploadShare {
+  position: absolute;
+  top: 83px;
+  left: 335px;
+  width: 21px;
+  height: 22px;
+}
+.iconUploadShare {
+  height: 2.84%;
+  width: 5.85%;
+  top: 9.62%;
+  right: 19.59%;
+  bottom: 87.54%;
+  left: 74.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image1Icon {
+  position: absolute;
+  top: 128px;
+  left: 0;
+  border-radius: var(--br-mini);
+  width: 393px;
+  height: 262px;
+  object-fit: cover;
+}
+.child {
+  position: absolute;
+  top: 484.5px;
+  left: 8.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+}
+.rm600,
+.theOasisCondo {
+  position: absolute;
+  top: 46.36%;
+  left: 2.54%;
+  font-size: var(--font-size-5xl);
+  font-weight: 800;
+}
+.theOasisCondo {
+  top: 420px;
+  left: 10px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+  text-align: center;
+}
+.room2 {
+  top: 53.87%;
+  left: 2.54%;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.inner,
+.item,
+.room2 {
+  position: absolute;
+}
+.item {
+  top: 657.5px;
+  left: -0.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 1px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  width: 376px;
+  height: 1px;
+}
+.inner {
+  top: 765px;
+  left: -14px;
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 422px;
+  height: 87px;
+}
+.vectorIcon1,
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 3.52%;
+  width: 8.91%;
+  top: 92.72%;
+  right: 81.42%;
+  bottom: 3.76%;
+  left: 9.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  right: 59.29%;
+  left: 31.81%;
+}
+.vectorIcon3 {
+  right: 11.45%;
+  left: 79.64%;
+}
+.account,
+.home,
+.inbox,
+.saved {
+  position: absolute;
+  top: 96.48%;
+  left: 9.16%;
+  font-family: var(--font-inter);
+  color: var(--color-dimgray-100);
+}
+.account,
+.inbox,
+.saved {
+  left: 31.81%;
+}
+.account,
+.inbox {
+  top: 96.36%;
+  left: 57.51%;
+}
+.account {
+  top: 96.48%;
+  left: 76.59%;
+}
+.iconMessageSquareOutlineI {
+  position: absolute;
+  height: 3.52%;
+  width: 7.63%;
+  top: 92.72%;
+  right: 34.86%;
+  bottom: 3.76%;
+  left: 57.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.listedBy,
+.propertyDetails {
+  left: 9px;
+  font-size: var(--font-size-xl);
+}
+.propertyDetails {
+  position: absolute;
+  top: 675px;
+  font-weight: 600;
+  text-align: center;
+}
+.listedBy {
+  top: 501px;
+}
+.goldenPinkRealty,
+.listedBy,
+.realEstateAgency {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+}
+.goldenPinkRealty {
+  top: 552px;
+  left: 85px;
+  font-size: var(--font-size-base);
+  cursor: pointer;
+}
+.realEstateAgency {
+  top: 568px;
+  left: 92px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-100);
+}
+.iconUserCircle,
+.vectorIcon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconUserCircle {
+  height: 7.04%;
+  width: 15.27%;
+  top: 64.08%;
+  right: 82.19%;
+  bottom: 28.87%;
+  left: 2.54%;
+  cursor: pointer;
+}
+.vectorIcon4 {
+  height: 2.5%;
+  width: 3.28%;
+  top: 74.06%;
+  right: -7.1%;
+  bottom: 23.44%;
+  left: 103.82%;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-vazirmatn);
+}

@@ -1,0 +1,341 @@
+.batteryThreeQuartersIcon,
+.wifiIcon {
+  position: absolute;
+  top: 24px;
+  left: 325px;
+  width: 20px;
+  height: 21px;
+  overflow: hidden;
+}
+.wifiIcon {
+  top: 25px;
+  left: 305px;
+  width: 15px;
+  height: 18px;
+}
+.signalIcon {
+  top: 26px;
+  left: 278px;
+  width: 22px;
+  height: 14px;
+  overflow: hidden;
+}
+.pm,
+.signalIcon,
+.vectorIcon {
+  position: absolute;
+}
+.pm {
+  top: 27px;
+  left: 48px;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+}
+.vectorIcon {
+  height: 2.5%;
+  width: 5.57%;
+  top: 10.33%;
+  right: 85.01%;
+  bottom: 87.17%;
+  left: 9.41%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.details {
+  position: absolute;
+  top: 10.09%;
+  left: 41.98%;
+  font-size: var(--font-size-xl);
+  font-weight: 800;
+  color: var(--color-black);
+}
+.heartIcon,
+.iconUploadShare {
+  position: absolute;
+  top: 86px;
+  left: 335px;
+  width: 21px;
+  height: 22px;
+}
+.iconUploadShare {
+  height: 2.84%;
+  width: 5.85%;
+  top: 9.98%;
+  right: 19.59%;
+  bottom: 87.18%;
+  left: 74.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.child {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 330px;
+}
+.listedBy {
+  top: 171px;
+  left: 30px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.goldenPinkRealty,
+.listedBy,
+.realEstateAgency {
+  position: absolute;
+  font-weight: 600;
+  text-align: center;
+}
+.goldenPinkRealty {
+  top: 222px;
+  left: 106px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.realEstateAgency {
+  top: 238px;
+  left: 113px;
+  font-size: var(--font-size-sm);
+}
+.iconUserCircle,
+.vectorIcon1 {
+  position: absolute;
+  height: 7.04%;
+  width: 15.27%;
+  top: 25.35%;
+  right: 76.84%;
+  bottom: 67.61%;
+  left: 7.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 2.5%;
+  width: 3.28%;
+  top: 27.11%;
+  right: 6.13%;
+  bottom: 70.39%;
+  left: 90.59%;
+}
+.hellogmailcom {
+  color: var(--color-black);
+}
+.blankLine {
+  margin: 0;
+}
+.email {
+  position: absolute;
+  top: 288px;
+  left: 30px;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  white-space: pre-wrap;
+  color: var(--color-dimgray-200);
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 1.88%;
+  width: 4.07%;
+  top: 39.67%;
+  right: 88.04%;
+  bottom: 58.45%;
+  left: 7.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chevronRight,
+.phoneAlt {
+  position: absolute;
+  top: 316.2px;
+  left: 121.2px;
+  background-color: var(--color-gray-200);
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.chevronRight {
+  top: 341.8px;
+  left: 209.5px;
+}
+.inner,
+.item {
+  position: absolute;
+  top: 391px;
+  left: 13px;
+  border-radius: var(--br-xl);
+  width: 233px;
+  height: 78px;
+  cursor: pointer;
+}
+.inner {
+  left: 252px;
+  width: 128px;
+}
+.call,
+.messageInThe {
+  position: absolute;
+  top: 414px;
+  left: 67px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  text-align: center;
+}
+.call {
+  top: 415px;
+  left: 309px;
+}
+.iconMessageSquareOutlineI,
+.vectorIcon3 {
+  position: absolute;
+  height: 3.76%;
+  width: 7.63%;
+  top: 48.36%;
+  right: 84.22%;
+  bottom: 47.89%;
+  left: 8.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 3.52%;
+  top: 48.24%;
+  right: 23.66%;
+  bottom: 48.24%;
+  left: 68.7%;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 765px;
+  left: -14px;
+  background-color: var(--color-white);
+  filter: blur(4px);
+  width: 422px;
+  height: 87px;
+}
+.vectorIcon4,
+.vectorIcon5,
+.vectorIcon6 {
+  position: absolute;
+  height: 3.52%;
+  width: 8.91%;
+  top: 92.72%;
+  right: 81.42%;
+  bottom: 3.76%;
+  left: 9.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.vectorIcon5,
+.vectorIcon6 {
+  right: 59.29%;
+  left: 31.81%;
+}
+.vectorIcon6 {
+  right: 11.45%;
+  left: 79.64%;
+}
+.account,
+.home,
+.inbox,
+.saved {
+  position: absolute;
+  top: 96.48%;
+  left: 9.16%;
+  font-family: var(--font-inter);
+}
+.account,
+.inbox,
+.saved {
+  left: 31.81%;
+}
+.account,
+.inbox {
+  top: 96.36%;
+  left: 57.51%;
+}
+.account {
+  top: 96.48%;
+  left: 76.59%;
+}
+.iconMessageSquareOutlineI1 {
+  position: absolute;
+  height: 3.52%;
+  width: 7.63%;
+  top: 92.72%;
+  right: 34.86%;
+  bottom: 3.76%;
+  left: 57.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.child1,
+.child2 {
+  position: absolute;
+  top: 490px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  width: 393px;
+  height: 96px;
+}
+.child2 {
+  top: 596px;
+}
+.hideThisListing,
+.reportThisListing {
+  position: absolute;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--color-dimgray-200);
+}
+.hideThisListing {
+  top: 525px;
+  left: 130px;
+  text-align: center;
+}
+.reportThisListing {
+  top: 631px;
+  left: 126px;
+}
+.iconEyeSlash,
+.iconMessageReport {
+  position: absolute;
+  height: 2.35%;
+  width: 6.36%;
+  top: 61.74%;
+  right: 69.72%;
+  bottom: 35.92%;
+  left: 23.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconMessageReport {
+  height: 2.93%;
+  top: 74.06%;
+  bottom: 23%;
+}
+.div {
+  position: relative;
+  background-color: var(--color-burlywood);
+  width: 400px;
+  height: 852px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-vazirmatn);
+}
